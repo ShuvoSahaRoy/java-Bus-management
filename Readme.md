@@ -1,4 +1,4 @@
-# JAVA swing project: Bus Ticket Management Desktop APP
+# JAVA swing project: Bus Journey Management Desktop APP
 ![image info](project_images/ds.svg)
 <!-- ![](https://img.shields.io/github/repo-size/itsvinayak/weather-app.svg?label=Repo%20size&style=flat-square)&nbsp; -->
 ![Made with JAVA](http://ForTheBadge.com/images/badges/made-with-JAVA.svg)
@@ -53,7 +53,7 @@ You check this on your side. But You need to add three jar file.
 
 Don't forget to resolve those issue by adding jar files. You can use zip file to import the whole project.
 
-# <a href="" ><strong>Project link</strong> </a>
+# <a href="https://github.com/ShuvoSahaRoy/java-Bus-management" ><strong>Project link</strong> </a>
 
 ---
 
